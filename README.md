@@ -8,23 +8,26 @@ This repository demonstrates a comprehensive cross-domain sentiment analysis pro
 
 ```
 .
-├── Preprocessing/
-│   ├── imdb_preprocessing.ipynb
-│   ├── socialmedia_preprocessing.ipynb
-│   ├── twitter_us_airline_preprocessing.ipynb
-│   ├── twitter_training_preprocessing.ipynb
-│   └── consumer_complaints_preprocessing.ipynb
-├── clean_data/
-│   ├── IMDB-Dataset_cleaned.csv(.gz)
-│   ├── socialmedia_sentiment_cleaned.csv
-│   ├── twitter_us_airline_cleaned.csv
-│   ├── twitter_training_cleaned.csv
-│   └── consumer_complaints_cleaned.csv
-├── plots/
-│   └── (All saved plots, e.g., confusion matrices, accuracy comparisons)
-├── model_development.ipynb
-├── cross_domain_analysis_with_visualization.ipynb
-└── README.md
+## Project Structure
+
+- **Preprocessing/**
+  - `imdb_preprocessing.ipynb`
+  - `socialmedia_preprocessing.ipynb`
+  - `twitter_us_airline_preprocessing.ipynb`
+  - `twitter_training_preprocessing.ipynb`
+  - `consumer_complaints_preprocessing.ipynb`
+- **clean_data/**
+  - `IMDB-Dataset_cleaned.csv`
+  - `socialmedia_sentiment_cleaned.csv`
+  - `twitter_us_airline_cleaned.csv`
+  - `twitter_training_cleaned.csv`
+  - `consumer_complaints_cleaned.csv`
+- **plots/**
+  - (All saved plots, e.g., confusion matrices, accuracy comparisons)
+- `model_development.ipynb`
+- `cross_domain_analysis_with_visualization.ipynb`
+- `README.md`
+
 ```
 
 ## Description
