@@ -72,5 +72,5 @@ This repository demonstrates a comprehensive cross-domain sentiment analysis pro
 
 ## Team Members :
 - Arpitha Thippeswamy 
-- Team Member : Anti Li
+-  Anti Li
 
