@@ -70,6 +70,7 @@ This repository demonstrates a comprehensive cross-domain sentiment analysis pro
 - Jupyter Notebook or Google Colab
 
 
-## Author : Arpitha Thippeswamy 
+## Team Members :
+Arpitha Thippeswamy 
 Team Member : Anti Li
 
